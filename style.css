@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC');
+
+th {
+    font-family: 'Amatic SC', cursive;
+    font-size: 3.6rem;
+}
+
+.imgg {
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Amatic SC',cursive;
+    font-size: 3.6rem;
+    text-align: center;
+}
